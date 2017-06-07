@@ -1119,7 +1119,7 @@ d3.layout.hierarchy = function() {
   return hierarchy;
 };
 
-// A method assignment helper for hierarchy subclasses.
+// A method asdssignment helsdfper for hierarchy subclasses.
 function d3_layout_hierarchyRebind(object, hierarchy) {
   object.sort = d3.rebind(object, hierarchy.sort);
   object.children = d3.rebind(object, hierarchy.children);
