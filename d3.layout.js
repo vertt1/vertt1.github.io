@@ -1120,11 +1120,11 @@ d3.layout.hierarchy = function() {
 };
 
 // A method assignment helper for hierarchy subclasses.
-function d3_layout_hierarchyRebind(object, hierarchy) {
-  object.sort = d3.rebind(object, hierarchy.sort);
-  object.children = d3.rebind(object, hierarchy.children);
-  object.links = d3_layout_hierarchyLinks;
-  object.value = d3.rebind(object, hierarchy.value);
+//function d3_layout_hierarchyRebind(object, hierarchy) {
+  //object.sort = d3.rebind(object, hierarchy.sort);
+  //object.children = d3.rebind(object, hierarchy.children);
+  //object.links = d3_layout_hierarchyLinks;
+  //object.value = d3.rebind(object, hierarchy.value);
 
   // If the new API is used, enabling inlining.
   object.nodes = function(d) {
