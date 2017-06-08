@@ -1,0 +1,8 @@
+[
+{"name":"flare.epic1.Feature1","size":3938,"imports":["flare.epic1.Feature2", "flare.epic1.Feature3", "flare.epic2.Feature5", "flare.epic2.Feature6"]},
+{"name":"flare.epic1.Feature2","size":3811,"imports":["flare.epic1.Feature4"]},
+{"name":"flare.epic1.Feature3","size":6716,"imports":["flare.epic1.Feature2"]},
+{"name":"flare.epic1.Feature4","size":743,"imports":["flare.epic1.Feature2", "flare.epic1.Feature3"]},
+{"name":"flare.epic2.Feature5","size":3534,"imports":["flare.epic1.Feature2", "flare.epic1.Feature4"]},
+{"name":"flare.epic2.Feature6","size":5731,"imports":["flare.epic1.Feature2", "flare.epic1.Feature3"]},
+]
