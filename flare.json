@@ -18,7 +18,7 @@
 {"name":"VSM4.epicenablers.epicenabler1.featurenabler1","size":2202,"imports":["VSM4.epics.epic3.Feature15", "VSM3.epics.epic2.Feature11"]},
 {"name":"VSM4.epicenablers.epicenabler1.featurenabler2","size":1382,"imports":["VSM1.epics.epic1.Feature4"]},
 {"name":"VSM4.epicenablers.epicenabler1.featurenabler3","size":1629,"imports":["VSM1.epics.epic1.Feature4"]},
-{"name":"VSM4.epicenablers.epicenabler1.featurenabler4","size":1675,"imports":["flare.animate.interpolate.Interpolator"]},
+{"name":"VSM4.epicenablers.epicenabler1.featurenabler4","size":1675,"imports":["VSM4.epics.epic3.Feature15"]},
 {"name":"VSM4.epicenablers.epicenabler2.featurenabler5","size":2042,"imports":["VSM3.epics.epic2.Feature12"]},
 {"name":"VSM4.epicenablers.epicenabler2.featurenabler6","size":1041,"imports":["VSM3.epics.epic2.Feature12"]},
 {"name":"VSM4.epicenablers.epicenabler2.featurenabler7","size":5176,"imports":["VMS1.epics.epic1.Feature1","fVSM1.epics.epic1.Feature4","VSM3.epics.epic2.Feature11"]},
