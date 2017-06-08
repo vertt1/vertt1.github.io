@@ -1,0 +1,8 @@
+[
+{"name":"flare.VMS1.epics.epic1.Feature1","size":3938,"imports":["VSM2.epics.epic2.Feature7","VSM1.epics.epic1.Feature4"]},
+{"name":"flare.VSM1.epics.epic1.Feature2","size":3812,"imports":["VSM4.epicenablers.epicenabler1.featurenabler3"]},
+{"name":"flare.VSM1.epics.epic1.Feature3","size":6714,"imports":["VSM4.epicenablers.epicenabler1.featurenabler3"]},
+{"name":"flare.VSM1.epics.epic1.Feature4","size":743,"imports":["VSM1.epics.epic1.Feature2"]},
+{"name":"flare.VSM2.epics.epic2.Feature5","size":3534,"imports":["VSM2.epics.epic2.Feature7"]},
+{"name":"flare.VSM2.epics.epic2.Feature7","size":5731,"imports":["VMS1.epics.epic1.Feature1","VSM2.epics.epic2.Feature5","VSM1.epics.epic1.Feature3"]},
+]
