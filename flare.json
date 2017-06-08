@@ -136,7 +136,7 @@
 {"name":"flare.util.IValueProxy","size":874,"imports":[]},
 {"name":"flare.util.math.DenseMatrix","size":3165,"imports":["flare.util.math.IMatrix"]},
 {"name":"flare.util.math.IMatrix","size":2815,"imports":[]},
-{"name":"flare.util.math.SparseMatrix","size":3366,"imports":["flare.util.math.IMatrix"]},
+{"name":"flare.util.math.EPIC1","size":3366,"imports":["flare.util.math.IMatrix"]},
 {"name":"flare.util.Maths","size":17705,"imports":["flare.util.Arrays"]},
 {"name":"flare.util.Orientation","size":1486,"imports":[]},
 {"name":"flare.util.palette.ColorPalette","size":6367,"imports":["flare.util.palette.Palette","flare.util.Colors"]},
