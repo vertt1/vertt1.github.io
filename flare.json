@@ -7,5 +7,5 @@
 {"name":"flare.analytics.graph.LinkDistance","size":5730,"imports":["flare.analytics.cluster.AgglomerativeCluster"]},
 {"name":"flare.analytics.graph.MaxFlowMinCut","size":7840,"imports":["flare.analytics.cluster.AgglomerativeCluster"]},
 {"name":"flare.analytics.graph.ShortestPaths","size":5914,"imports":["flare.analytics.cluster.AgglomerativeCluster"]},
-{"name":"flare.analytics.graph.SpanningTree","size":3416,"imports":["flare.analytics.cluster.AgglomerativeCluster"]},
+{"name":"flare.analytics.graph.SpanningTree","size":3413,"imports":["flare.analytics.cluster.AgglomerativeCluster"]},
 ]
